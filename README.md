@@ -2,10 +2,10 @@
 
 In this little project I show you how we can:
 
-A) read VALUES from the Keyboard;
-B) store them in a variables;
-C) and print them out on the screen using the **Scanner** class (Java API 5.0 and later);
-D) use the Reminder Operator (%);
++ read VALUES from the Keyboard;
++ store them in a variables;
++ and print them out on the screen using the **Scanner** class (Java API 5.0 and later);
++ use the Reminder Operator (%);
 
 
 ## Acknowledgments
