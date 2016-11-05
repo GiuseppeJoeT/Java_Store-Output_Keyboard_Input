@@ -8,7 +8,7 @@ public class VersatileSnitSoft {
 		
 		System.out.print("What's the price of a CD-ROM? ");
 		
-		amount = tastiera.nextDouble();
+		amount =  tastiera.nextDouble();
 		// amount gets the value from the User input
 		
 		amount = amount + 25;
